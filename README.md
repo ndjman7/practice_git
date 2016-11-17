@@ -1,6 +1,6 @@
 # practice_git
 
-## git practice
+## Git practice
 fast finish
 
 fast finish again
